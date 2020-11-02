@@ -1,0 +1,1 @@
+web: java -jar -Dspring.profiles.active=heroku target/smattnews-1.0-SNAPSHOT.jar
